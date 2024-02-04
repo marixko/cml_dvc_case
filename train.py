@@ -32,6 +32,5 @@ pd.DataFrame(loss, columns=["loss"]).to_csv("loss.csv", index=False)
 
 with open("metrics.json", 'w') as outfile:
         json.dump({ "accuracy": acc, "precision":prec,"recall":rec}, outfile)
-        
 
 
