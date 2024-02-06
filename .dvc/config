@@ -1,8 +1,0 @@
-[core]
-    autostage = true
-    remote = drive
-['remote "myremote"']
-    url = https://drive.google.com/drive/folders/1RCBlEGlPvHmg-f9EDeNSgQLBlhTVQOfF?usp=drive_link
-['remote "drive"']
-    url = gdrive://1RCBlEGlPvHmg-f9EDeNSgQLBlhTVQOfF
-    gdrive_acknowledge_abuse = true
