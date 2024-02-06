@@ -1,4 +1,5 @@
 [core]
     remote = myremote
 ['remote "myremote"']
-    url = https://github.com/marixko/cml_dvc_case/tree/master/data
+    gdrive_client_id = 615692820366-n2dh1r5iiud7aocc2h0u2fj2p4gognkg.apps.googleusercontent.com
+    gdrive_client_secret = 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
