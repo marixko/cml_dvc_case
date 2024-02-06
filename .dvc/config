@@ -1,0 +1,4 @@
+[core]
+    remote = myremote
+['remote "myremote"']
+    url = /home/mariko/Research/Projects/cml_dvc_case/data/
